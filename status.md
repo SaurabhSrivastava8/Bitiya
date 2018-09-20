@@ -1,48 +1,42 @@
 ## Pre Bitiya learning Status
 
 ### Sept 19, 2018
-* [ ] Learning Ada-Boost & Random Forest Algo.
-* [x] Configured Mycroft with Device and used all basic available skills.
-* [x] Exploring Docs to code the first basic Skils.
+* [x] Continued with mini project.
+* [x] Continued SVM from udacity.
 
 ### Sept 18, 2018
-* [x] Learnt KNN Algorithm.
-* [x] Implemented it using sklearn, basic exercise.
-* [x] Checking accurecy of all Four Classifier Algos on same data.
+* [x] Started mini project in Naive Bayes
+* [x] Implemented and learned some Sklearn methods(kernels for svm,accuracy evaluation using test data).
 
 ### Sept 17, 2018
-* [x] Learnt Decision Tree algorithm.
-* [x] Implemented it using sklearn, basic exercise.
+* [x] Learnt SVM algorithm from udacity.
+* [x] Implemented SVM using sklearn.
 
 ### Sept 16, 2018
-* [x] Learnt Naive Bayes , SVM algo.
-* [x] Implemented it using sklearn, basic exercise.
+* [x] Learnt Naive Bayes form Udacity
+* [x] Implemented Naive Baye susing sklearn.
 
 ### Sept 15, 2018
-* [x] More Python Basics Concepts.
-* [x] Continue Learning the ML Course with exercises and coding.
+* [x]Resumed Machine learning Course on Udacity.
+* [x]More Python Basics Concepts related to scikit-learn.
 
 ### Sept 14, 2018
-* [ ] Started The Machine learning Course on Udacity.
-* [ ] learning Numpy, Matplotlib.
+* [x]Learned about Naive Bayes(Theroitical) 
+* [x]Learned about SVM(Theroitical) 
 
 ### Sept 13, 2018
-* [x] Completed The Python Course on Udemy
-* [x] Helped Others to install Ubuntu and Mycroft
+* [x] Helped Others to install Ubuntu alongside windows
+* [x] Implemented some more basic python programs
 
 ### Sept 12, 2018
-* [x] Linked every member to Bitiya on Github
-* [ ] Working on AI speech recognition.
-* [X] Installing Mycroft by getting help from Mycroft community
-
+* [X] Installing Mycroft in System.
+* [X] Ran Mycroft in terminal.
 
 ### Sept 11, 2018
-* [x] Formed the Bitiya Repo
-* [x] Introduced git/Github to all
+* [x] Joined the Bitiya Repo
 * [x] Discussed about the learning flow for first two weeks with Team
-* [x] Covered Python Topics
+* [x] Some basic python programs 
 
 ### Sept 10, 2018
 * [x] Gone through basic Python
-* [x] Built a basic Calculator in Python
-* [x] Downloaded Mycroft in my System.
+* [x] Downloaded and installed Ubuntu in my System.
