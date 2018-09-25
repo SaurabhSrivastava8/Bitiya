@@ -1,5 +1,29 @@
 ## Pre Bitiya learning Status
 
+
+### Sept 24, 2018
+* [x] Started a project Loan Predictor.
+* [x] Learned and implemented file reading/writing opertions through pandas library.
+* [X] Implemented some python programs.
+
+### Sept 23, 2018
+* [x] Continued with Decision Tree(Entropy).
+* [x] Learned and implemented Data Structure Dataframe along with some of the possible opertions in it in pandas library.
+
+### Sept 22, 2018
+* [x] Done basic classifier implementation in Decision Tree.
+* [x] Continued with Decision Tree.
+* [x] Learned and implemented Data Structure Series along with all the possible opertions in it in pandas library.
+
+### Sept 21, 2018
+* [x] Started and Completed mini project on SVM.
+* [x] Started Decision Tree.
+* [x] Started learning pandas library.
+
+### Sept 20, 2018
+* [x] Completed mini project.
+* [x] Completed SVM from udacity.
+
 ### Sept 19, 2018
 * [x] Continued with mini project.
 * [x] Continued SVM from udacity.
